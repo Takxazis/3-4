@@ -1,0 +1,29 @@
+
+.titleClass{
+    text-align: center;
+}
+
+.questionClass{
+  margin: 0 0 0 100px;
+  
+}
+
+.checkboxClass{
+    background-color: red;
+    margin: 0 0 0 150px
+
+}
+
+.labelClass{
+    font-weight: bold;
+}
+
+.buttonClass{
+    font-weight: bold;
+    display: block;
+    margin: auto;
+    width: 400px;
+    height: 60px;
+    background-color:#CFE2F3;
+    border: 1px solid black;
+}
